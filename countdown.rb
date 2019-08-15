@@ -8,6 +8,6 @@ def countdown(number)
     counter -= 1
     binding.pry
   end
-  
+
   return "HAPPY NEW YEAR!"
 end
